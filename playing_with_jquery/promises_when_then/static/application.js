@@ -8,21 +8,6 @@ var randomWait = function(word) {
 	);
 }
 
-randomWait('some');
-randomWait('ajax');
-randomWait('calls');
-randomWait('take');
-randomWait('longer');
-randomWait('than');
-randomWait('others');
-randomWait('which');
-randomWait('why');
-randomWait('jquery');
-randomWait('when');
-randomWait('then');
-randomWait('is');
-randomWait('so');
-randomWait('important');
 var words = [
 	'some',
 	'ajax',
